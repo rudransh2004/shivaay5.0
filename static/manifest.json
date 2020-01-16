@@ -1,0 +1,16 @@
+{
+    "name": "PLANT DISEASE DETECTOR",
+    "short_name": "PLANT DISEASE DETECTOR",
+    "description": "This app could be used easily to detect the disease of the plants.",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#000000",
+    "theme_color": "#0f4a73",
+    "icons": [{
+      "src": "icon.jfif",
+      "sizes": "512x512",
+      "type": "image/png"
+    }]
+  }
+  
